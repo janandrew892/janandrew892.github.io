@@ -4,7 +4,7 @@ Jan Andrew Senires
 
 BS Computer Science
 
-link: 
+link: https://janandrew892.github.io/
 
 Steps on how to create Github page(using terminal):
 1. Clone the repository.
